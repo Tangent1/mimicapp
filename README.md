@@ -1,0 +1,4 @@
+mimicapp
+========
+
+mimicappのリポジトリです．
